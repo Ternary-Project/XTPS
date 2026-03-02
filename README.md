@@ -1,4 +1,4 @@
-# 🔐 XTPS: Encrypted Ternary Pattern Search for HFT Analytics
+# 🔐 XTPS: XOR Encrypted Ternary Pattern Search for HFT Analytics
 
 [![PyPI](https://badge.fury.io/py/tps-core.svg)](https://pypi.org/project/tps-core/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
