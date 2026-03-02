@@ -45,26 +45,25 @@ Scanning for manipulation patterns...
 
 TOTAL HITS: 325 manipulation patterns detected in encrypted stream.
 All operations performed directly on encrypted data.
+==============================================================================
 
-# 🔐 Security Architecture
+🔐 Security Architecture
+------------------------------------------------------------------------------
+- Delta-Ternary compressed stream
+- 256-bit XOR obfuscated data layer
+- Pattern detection without plaintext reconstruction
+- Zero-trust processing pipeline
+------------------------------------------------------------------------------
 
--   Delta-Ternary compressed stream\
--   256-bit XOR obfuscated data layer\
--   Pattern detection without plaintext reconstruction\
--   Zero-trust processing pipeline
+📦 Full Certified Version
+------------------------------------------------------------------------------
+For production deployment, enterprise configuration, and full documentation:
 
-------------------------------------------------------------------------
+https://github.com/Ternary-Project/TPS
+------------------------------------------------------------------------------
 
-# 📦 Full Certified Version
-
-For production deployment, enterprise configuration, and full
-documentation:
-
-👉 https://github.com/Ternary-Project/TPS
-
-------------------------------------------------------------------------
-
-# 🏁 Summary
-
-**40× compression. Encrypted detection. 325 institutional signals. Zero
-plaintext exposure.**
+🏁 Summary
+------------------------------------------------------------------------------
+40× compression. Encrypted detection. 325 institutional signals.
+Zero plaintext exposure.
+==============================================================================
