@@ -44,7 +44,7 @@ Scanning for manipulation patterns...
   HIT → Fakeout Reversal: 17 times
 
 TOTAL HITS: 325 manipulation patterns detected in encrypted stream.
-All operations performed directly on encrypted data.
+All operations performed directly on encrypted data. ```
 
 # 🔐 Security Architecture
 
